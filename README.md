@@ -1,2 +1,3 @@
 # BSK
-http://www.wmii.uwm.edu.pl/~cybowski/#
+* http://www.wmii.uwm.edu.pl/~cybowski/#
+* https://hack.cert.pl/challenges
