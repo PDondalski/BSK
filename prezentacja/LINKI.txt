@@ -1,0 +1,27 @@
+Porównanie Proxy - VPN:
+1. https://kapitanhack.pl/2020/03/17/nieskategoryzowane/roznice-pomiedzy-vpn-i-proxy/
+
+Połączenia Remote-Access i Site-to-Site:
+2. https://youtu.be/bEF8PSeLttc?t=100
+3. https://youtu.be/bEF8PSeLttc?t=533
+
+NAS od Synology:
+4. https://www.benchmark.pl/testy_i_recenzje/dlaczego-nas-od-synology.html#noop
+
+Ranking VPN - recenzja cyberghost
+5. https://www.experte.com/vpn/cyberghost
+
+Unikanie reklam dzięki VPN
+6. https://nordvpn.com/pl/features/threat-protection/
+
+konfiguracje PPTP i OpenVPN:
+https://youtu.be/ptk8f1JJfa8?t=1316
+
+Sprawdzenie trudności hasła, ile czasu trzeba by je złamać:
+https://www.security.org/how-secure-is-my-password/
+
+Chmury szyfrowane:
+https://www.idrive.com
+
+Hash:
+https://xorbin.com/tools/sha256-hash-calculator
